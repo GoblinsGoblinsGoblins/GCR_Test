@@ -1,5 +1,5 @@
 # Print Hello World and Platform OS information
-# python hello_world.py
+# python get_incidents.py
 
 
 import platform
